@@ -1,7 +1,6 @@
-package lesson1.demo8;
+package lesson1.demos.demo8;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {

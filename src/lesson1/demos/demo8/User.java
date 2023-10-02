@@ -1,6 +1,5 @@
-package lesson1.demo8;
+package lesson1.demos.demo8;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NonNull;
 

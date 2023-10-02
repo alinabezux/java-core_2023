@@ -1,4 +1,4 @@
-package lesson1.demo7;
+package lesson1.demos.demo7;
 
 public class Main {
     public static void main(String[] args) {

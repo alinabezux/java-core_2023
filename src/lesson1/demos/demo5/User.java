@@ -1,4 +1,4 @@
-package lesson1.demo5;
+package lesson1.demos.demo5;
 
 import lombok.*;
 
