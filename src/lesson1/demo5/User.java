@@ -1,14 +1,12 @@
 package lesson1.demo5;
 
-
 import lombok.*;
-import lombok.experimental.FieldDefaults;
 
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter
 @Setter
-@ToString(exclude = {"id"})
+@ToString
 public class User {
     private int id;
     private String name;
