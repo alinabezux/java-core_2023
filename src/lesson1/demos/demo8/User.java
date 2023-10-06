@@ -12,5 +12,5 @@ public class User {
     @NonNull
     private String name;
 
-    private ArrayList<String> skills = new ArrayList<String>();
+    private ArrayList<String> skills = new ArrayList<>();
 }
